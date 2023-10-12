@@ -1,0 +1,14 @@
+﻿Según los datos obtenidos podemos afirmar que:
+Las personas de alrededor de los 43 años de edad son mas propensas a tener un nivel de glucosa normal, es decir 106.14.
+
+Para la moda, las personas de 78 años son las que siendo casadas tiene  un nivel bajo de glucosa alrededor de los 93.88 y por lo general son mujeres.
+
+Para los quartiles, podemos decir que:
+QUIARTIL 1 A la edad de los 25 años el nivel d gluosa esta muy por debajo es decir 77.2 por debajo del promedio
+
+QUIARTIL 2 A la edad de los 45 años el nivel d gluosa esta a 91.8 cerca del promedio
+
+QUIARTIL 3 A la edad de los 61 años el nivel d gluosa esta muy alrededor de 114.125 por encima del promedio
+
+En el caso del percentil 60
+Las personas de 51 años estan cerca del promedio del nivel de glucosa 98.9.
